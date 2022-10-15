@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: '/eunomia-repo-frondend'
+baseurl: '/lmp_docs'
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -23,7 +23,7 @@ timezone:
 
 title: LMP eBPF-hub                          # the main title
 
-tagline: A eBPF applications surpermarket   # it will display as the sub-title
+tagline: An eBPF applications surpermarket   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   The world's easiest way to create, manage, and deliver your team's eBPF applications.
